@@ -38,7 +38,7 @@ curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
 
  ```console  
 
-curl -sLkO https://is.gd/nomachineMATE ; bash nomachineMATE
+curl -sLkO https://is.gd/0NAxBc ; bash nomachineMATE
 
  ```
 - XFCE4 Desktop Environment:
